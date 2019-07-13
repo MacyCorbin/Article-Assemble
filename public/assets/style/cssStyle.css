@@ -1,0 +1,52 @@
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  
+}
+  
+main {
+    flex: 1 0 auto;
+}
+
+.container{
+    margin-top: 70px;
+}
+
+.collection-header{
+    background-color: #38C790;
+}
+
+li{
+    color:#2A3852;
+}
+
+nav{
+    background-color: #04899B; 
+    height: 200px
+}
+
+.brand-logo{
+    font-family: 'Space Mono', monospace;
+    font-size: 70px;
+
+}
+
+.collection-header{
+
+    color: white;
+    font-family: 'Space Mono', monospace;
+    font-size: 30px;
+}
+
+.pageFooter{
+
+    background-color: #04899B;
+    color:white;
+    height: 100px; 
+    padding-top:40px; 
+    text-align:center
+}
+
+
